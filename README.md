@@ -4,3 +4,5 @@ Moje prvé cvičenia s Gitom a GitHubom
 * **Autor:** Stanislav Belčík
 * **Trieda:** 4.AT
 * **Dátum:** 14.9.2026
+
+* ahojky
